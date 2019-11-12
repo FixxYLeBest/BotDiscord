@@ -837,4 +837,4 @@ bot.on('message', message =>
 
 })
 
-bot.login('NTExOTMwNjU2OTc3MTkwOTEy.XcrkkQ.-l1Cl2q_C1JyMn3WyFzxk2hikIc');
+bot.login('Token');
